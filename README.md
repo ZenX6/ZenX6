@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZenX6
 - 👀 I’m interested in coding, fitnessing
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on any project 
 
 
